@@ -5,7 +5,7 @@ Sentiment Analysis to identify best Python developers on Github most likely to a
 
 Pre-requisites
 --------------
-- python 2.7
+- python 2.7.1
 - oauth
 
 Installation
@@ -14,6 +14,6 @@ Installation
 
   $ cd gitbest
 
-  $ python gitbest.py -configure
+  $ python gitbest.py -help
 
 
