@@ -18,5 +18,5 @@ Add your Twitter keys to keys.ini
 
   $ python gitbest.py -help
 
-  $ python gitbest <keyword>
+  $ python gitbest.py <keyword>
 
