@@ -1,7 +1,7 @@
 gitbest
 =======
 
-Sentiment Analysis to identify best Python developers on Github most likely to accept a job offer
+Sentiment Analysis to identify best developers on Github most likely to accept a job offer
 
 Pre-requisites
 --------------
